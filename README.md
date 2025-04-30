@@ -2,7 +2,7 @@
 
 A comprehensive web application to help users track their financial transactions, analyze spending patterns, and make informed budget decisions through interactive visualizations and machine learning predictions.
 
-![Finance Tracker Dashboard](https://via.placeholder.com/800x400?text=Finance+Tracker+Dashboard)
+![Finance Tracker Dashboard](doc/Dashboard.png)
 
 ## Features
 
